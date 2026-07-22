@@ -1,0 +1,15 @@
+101,Alice,92.5
+102,Bob,78.0
+103,Charlie,65.5
+104,Diana,88.0
+105,Ethan,54.0
+106,Fiona,96.5
+107,George,71.0
+108,Hannah,83.5
+109,Ivan,59.0
+110,Julia,90.0
+111,Kevin,67.5
+112,Lily,74.0
+113,Michael,81.5
+114,Nora,48.0
+115,Oliver,99.0
